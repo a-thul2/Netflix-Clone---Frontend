@@ -16,7 +16,7 @@ This project replicates the visual design and layout of Netflix, focusing on pra
 
 ## 🚀 How to Run Locally
 - Clone this repository.
-- Open the project folder : cd netflix-clone.
+- Open the project folder : cd folder-name
 - Open index.html in your browser.
 
 ## 📌 Notes
